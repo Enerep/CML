@@ -1,0 +1,4 @@
+Heart: https://www.kaggle.com/johnsmith88/heart-disease-dataset
+Breast: https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
+Cold: just fkin do PILLOW package modify it, use the phone to take thermal picture feed it in the input status then fkin know the temprerature somehow idfk
+Eye disease: done and ez
